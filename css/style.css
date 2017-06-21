@@ -1,3 +1,12 @@
-header {
-    align-content: center
+header .navbar h1 {
+    text-align: center;
+}
+
+header .navLinks {
+    text-align: center
+}
+
+body {
+    align-content: center;
+    display: block;
 }
