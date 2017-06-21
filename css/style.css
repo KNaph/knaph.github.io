@@ -6,12 +6,16 @@ header .navbar h1 {
 }
 
 header .navLinks {
-    text-align: center
+    text-align: center;
 }
 
+works:link {
+    color: black;
+}
 
 body {
     background-image: url("../images/IMG_0075.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
 /*    background-position: center center;*/
 }
