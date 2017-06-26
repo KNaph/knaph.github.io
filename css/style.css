@@ -7,7 +7,7 @@ header .navbar {
 }
 header .navbar h1 {
     text-align: center;
-    font-family: Helvetica Neue," sans-serif";
+    font-family: Helvetica;
     font-size: 3.125em;
     padding-top: 10px;
     line-height: 45px;
@@ -17,7 +17,6 @@ header .navbar h1 {
 header .navLinks {
     text-align: center;
     text-color
-    font-family: Helvetica Neue," sans-serif";
     font-variant: small-caps;
     font-size: 1.375em;
     letter-spacing: 5px;
@@ -31,6 +30,8 @@ header .navLinks {
 #navigation ul li {
     list-style-type: none;
     display: inline;
+    font-family: Helvetica;
+
 }
 
 #navigation li:before { 
