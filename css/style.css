@@ -1,20 +1,46 @@
-
 header .navbar {
     background-color: white;
     width: 750px;
     margin: auto;
+    border-bottom-left-radius: 45px;
+    border-top-right-radius: 45px;
 }
 header .navbar h1 {
     text-align: center;
-    font: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif"
+    font-family: Helvetica Neue," sans-serif";
+    font-size: 3.125em;
+    padding-top: 10px;
+    line-height: 45px;
+    margin-bottom: 10px;
 }
 
 header .navLinks {
     text-align: center;
-    margin: auto;
+    text-color
+    font-family: Helvetica Neue," sans-serif";
+    font-variant: small-caps;
+    font-size: 1.375em;
+    letter-spacing: 5px;
+    padding: 0px;
+    list-style-type: none;
+    margin-top: 0;
+    padding-bottom: 5px;
 }
 
-works:link {
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
     color: black;
 }
 
