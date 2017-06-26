@@ -25,6 +25,7 @@ header .navLinks {
     list-style-type: none;
     margin-top: 0;
     padding-bottom: 5px;
+    border: thick;
 }
 
 a:link {
