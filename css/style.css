@@ -28,6 +28,19 @@ header .navLinks {
     border: thick;
 }
 
+#navigation ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+#navigation li:before { 
+    content: " | "; 
+} 
+
+#navigation li:first-child:before { 
+    content: none; 
+}
+
 a:link {
     color: black;
     text-decoration: none;
@@ -39,7 +52,6 @@ a:visited {
 
 a:hover {
     color: black;
-    text-decoration: underline;
 }
 
 a:active {
@@ -47,7 +59,7 @@ a:active {
 }
 
 body {
-    background-image: url("../images/IMG_0075.jpg");
+    background-image: url("../images/IMG_0352.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     
