@@ -1,13 +1,17 @@
 
 header .navbar {
     background-color: white;
+    width: 750px;
+    margin: auto;
 }
 header .navbar h1 {
     text-align: center;
+    font: Gotham, Helvetica Neue, Helvetica, Arial," sans-serif"
 }
 
 header .navLinks {
     text-align: center;
+    margin: auto;
 }
 
 works:link {
