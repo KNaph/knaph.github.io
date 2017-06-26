@@ -2,8 +2,11 @@ header .navbar {
     background-color: white;
     width: 750px;
     margin: auto;
+    border-radius: 5px;
+/*
     border-bottom-left-radius: 45px;
     border-top-right-radius: 45px;
+*/
 }
 header .navbar h1 {
     text-align: center;
