@@ -16,6 +16,7 @@ header .navbar h1 {
     padding-top: 10px;
     line-height: 1.05em;
     margin-bottom: 10px;
+    -webkit-font-smoothing: antialiased;
 }
 
 h1:after
@@ -44,6 +45,7 @@ header .navLinks {
     display: inline;
     /* font-family: Helvetica; */
     font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
 
 }
 
