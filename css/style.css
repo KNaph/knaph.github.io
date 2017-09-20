@@ -72,9 +72,12 @@ a:active {
 }
 
 body {
-    background-image: url("../images/IMG_0352.jpg");
+    /* background-image: url("../images/IMG_0352.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; */
+
+    background-color: rgb(45, 45, 45);
+
     
 /*    background-position: rs*/
 }
