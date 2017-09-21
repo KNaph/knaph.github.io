@@ -1,4 +1,4 @@
-header .navbar {
+header #navbar {
     background-color: white;
     width: 750px;
     margin: auto;
@@ -8,7 +8,7 @@ header .navbar {
     border-top-right-radius: 45px;
 */
 }
-header .navbar h1 {
+header #navbar h1 {
     text-align: center;
     /* font-family: Helvetica; */
     font-family: 'Open Sans', sans-serif;
@@ -28,7 +28,7 @@ h1:after
     width: 430px;
 }
 
-header .navLinks {
+header #navLinks {
     text-align: center;
     font-variant: small-caps;
     font-size: 1.375em;
@@ -85,7 +85,7 @@ body {
 /*    background-position: rs*/
 }
 
-div .body_content {
+div #body_content {
     color: grey;
     text-align: center;
     padding: 150px;
