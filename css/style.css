@@ -93,10 +93,10 @@ div #body_content {
 
 #footer {
     background: white;
-    color: black;
+    color: #464646;
     font-size: 12px;
-    max-width: 1024px;
-    min-height: 150px;    
+    min-height: 50px;    
+    font-family: 'Montserrat', sans-serif;
 }
 
 #footer_right {
