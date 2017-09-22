@@ -90,3 +90,9 @@ div #body_content {
     text-align: center;
     padding: 150px;
 }
+
+#footer {
+    background-color: white;
+    max-width: 1024px;
+    min-height: 150px;    
+}
