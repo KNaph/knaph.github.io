@@ -92,7 +92,13 @@ div #body_content {
 }
 
 #footer {
-    background-color: white;
+    background: white;
+    color: black;
+    font-size: 12px;
     max-width: 1024px;
     min-height: 150px;    
+}
+
+#footer_right {
+    float: right;
 }
