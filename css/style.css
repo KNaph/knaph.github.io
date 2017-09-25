@@ -4,14 +4,19 @@ body {
     background-repeat: no-repeat; */
 
     background-color: rgb(45, 45, 45);
-
+    margin: 0px;
     
 /*    background-position: rs*/
 }
 
 .inner {
-    /* align-content: center; */
     max-width: 1024px;
+    margin: 0 auto;
+}
+
+.inner-footer {
+    padding-left: 100px;
+    padding-right: 100px;
     margin: 0 auto;
 }
 
@@ -45,7 +50,7 @@ h1:after
     width: 430px;
 }
 
-header #navLinks {
+header #nav-links {
     text-align: center;
     font-variant: small-caps;
     font-size: 1.375em;
@@ -91,9 +96,9 @@ a:active {
     color: black;
 }
 
-div #body_content {
-    color: grey;
-    text-align: center;
+div #content-wrapper {
+    /* color: grey; */
+    /* text-align: center; */
     padding: 150px;
 }
 
@@ -104,8 +109,9 @@ div #body_content {
     min-height: 50px;    
     padding-top: 20px;
     font-family: 'Montserrat', sans-serif;
+    position: relative;
 }
 
-#footer_right {
+#footer-right {
     float: right;
 }
