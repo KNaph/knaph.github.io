@@ -102,6 +102,10 @@ div #content-wrapper {
     padding: 150px;
 }
 
+#about {
+    font-size: 30px;
+}
+
 #footer {
     background: white;
     color: #464545;
