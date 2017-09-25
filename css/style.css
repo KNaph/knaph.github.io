@@ -10,7 +10,9 @@ body {
 }
 
 .inner {
+    /* align-content: center; */
     max-width: 1024px;
+    margin: 0 auto;
 }
 
 header #navbar {
