@@ -9,9 +9,17 @@ body {
 /*    background-position: rs*/
 }
 
+div {
+    display: block;
+}
+
 .inner {
-    max-width: 1024px;
+    max-width: 75%;
     margin: 0 auto;
+    padding-top: 1px;
+    line-height: 30px;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-font-smoothing: antialiased;
 }
 
 .inner-footer {
@@ -103,7 +111,10 @@ div #content-wrapper {
 }
 
 #about {
+    min-height: 500px;
     font-size: 30px;
+    background-color: #666FCC;
+
 }
 
 #footer {
